@@ -5,3 +5,5 @@ Ylands ahk helper menu
 
 
 This makes life easier :D
+
+You need "1920x1080" monitor to this to work
