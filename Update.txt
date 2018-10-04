@@ -1,2 +1,2 @@
-;Ahk Auto update trigger line
+;Ahk Auto update trigger line.
 0.122
