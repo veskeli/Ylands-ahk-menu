@@ -1,0 +1,16 @@
+Menu:
+
+"Numpad -" Toggle ylands menu++
+"Delete" Program exit
+"Numpad /" Suspend keybindings (Toggle)
+--------------------------------------------------------------------
+Remeber to be full screen(1920x1080)
+Spammers jne:
+
+"Shift + Q" Mouse 2 spammer(toggle)
+"Shift + P" Auto planter
+"Numpad *" Auto run(Toggle)
+"Shift + F" Auto smelter filler(iron and copper)
+"Shift + C" Auto craft(Spam's craft button 20 times)
+"Shift + 1" iron smelt hotkey
+"Shift + 2" copper smelt hotkey

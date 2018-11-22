@@ -1,0 +1,23 @@
+[Ylands menu 0.122]
++Added auto updater and test code but not working yet
+[Ylands menu 0.121]
++fixed menu settings and added more settings to settings tab
+[Ylands menu 0.120]
++Exit game and script
+Bug - save button is not kind of working
+[Ylands menu 0.119]
++Exit script button
++Better looking script
++Easier Fix Hotkey stuff if needed
+-Removed Smelter auto take all (now it always takes all)
+Fixed - Smelter take all
+Fixed - Some auto smelter bugs
+Bug - save button is not kind of working
+...
+...
+...
+[Ylands menu 0.113]
+First (Working) version
+[Ylands menu 0.114]
+Fixed - New coords
++Better script

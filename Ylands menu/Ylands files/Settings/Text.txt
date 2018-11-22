@@ -1,0 +1,13 @@
+Menu:
+
+"Numpad -" Toggle ylands menu++
+"Delete" Program exit
+"Numpad /" Suspend keybindings (Toggle)
+--------------------------------------
+Spammers jne:
+
+"Shift + Q" Mouse 2 spammer(toggle)
+"Shift + P" Auto planter
+"Numpad *" Auto run(Toggle)
+"Shift + F" Auto smelter filler(iron and copper)
+"Shift + C" Auto craft(Spam's craft button)
