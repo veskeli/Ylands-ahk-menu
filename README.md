@@ -1,5 +1,5 @@
 # Ylands-ahk-"Mod"menu
-Ylands ahk helper menu 
+Ylands ahk helper menu (Might not work anymore)
 
 !!! [Download ylands menu](https://github.com/veskeli/Ylands-ahk-menu/releases) !!!
 
